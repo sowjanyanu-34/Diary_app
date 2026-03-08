@@ -41,7 +41,7 @@ lib/
 1. Install Flutter and Android Studio.
 2. Set up an Android emulator (Pixel 7, API 36).
 3. Clone the repository:
-   git clone https://github.com/syeda-mizba/EchoDiary.git
+   git clone https://github.com/sowjanyanu-34/Diary_app.git
 4. Navigate to the project folder:
    cd EchoDiary
 5. Install dependencies:
