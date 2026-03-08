@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "927431505226",
+    "project_id": "echo-diary-a27ca",
+    "storage_bucket": "echo-diary-a27ca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927431505226:android:a8c17a43691d935794bdb3",
+        "android_client_info": {
+          "package_name": "com.example.echo_diary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5RHGbSAym2PbMSmpxHvzbv8aM-8HENjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
